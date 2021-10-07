@@ -1,3 +1,6 @@
 [submodule "hw/a1"]
 	path = hw/a1
 	url = git@github.com:cs5650-2021fa/a1-2021fa-jschmidtnj.git
+[submodule "hw/a2"]
+	path = hw/a2
+	url = git@github.com:cs5650-2021fa/a2-2021fa-jschmidtnj.git
