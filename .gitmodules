@@ -6,4 +6,7 @@
 	url = git@github.com:cs5650-2021fa/a2-2021fa-jschmidtnj.git
 [submodule "hw/a3"]
 	path = hw/a3
-	url = git@github.com:cs5650-2021fa/a3-2021fa-jschmidtnj.git
+    url = git@github.com:cs5650-2021fa/a3-2021fa-jschmidtnj.git
+[submodule "final"]
+	path = final
+	url = git@github.com:cs5650-2021fa/project-2021fa-g-12.git
